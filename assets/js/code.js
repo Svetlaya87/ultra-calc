@@ -91,7 +91,7 @@ function calc() {
     //console.log(daysFromTotalSum,UltraInfoCopy[363].paymentSum, typeof(UltraInfoCopy[363].paymentSum) );
 
     
-        if (saldoDaysFromUser != 0){
+        if (saldoDaysFromUser >= 0){
 
             maxDays=UltraInfoCopy[UltraInfoCopy.length-1].qDays-saldoDaysFromUser;
 
@@ -103,10 +103,11 @@ function calc() {
         console.log(SumFromMaxDays);
         console.log(maxDays);
         
-    for (i=0; i<UltraInfoCopy[UltraInfoCopy.length-1];i++){
-        if( totalSum>=UltraInfoCopy[i].paymentSum && totalSum<UltraInfoCopy[i+1].paymentSum ){
+    for (i=0; i<UltraInfoCopy.length-1;i++){
+        if( totalSum>=UltraInfoCopy[i].paymentSum && totalSum<+UltraInfoCopy[i+1].paymentSum ){
             daysFromTotalSum = UltraInfoCopy[i].qDays;
             saldoMoneyEnd=totalSum-UltraInfoCopy[i].paymentSum;
+            break;
 
         }
     }
@@ -114,6 +115,11 @@ function calc() {
     if (totalSum >= UltraInfoCopy[UltraInfoCopy.length-1].paymentSum) {
         daysFromTotalSum=UltraInfoCopy[UltraInfoCopy.length-1].qDays;// это для последного элемента
         
+    } else if (totalSum<UltraInfoCopy[0].paymentSum){
+
+        daysFromTotalSum = 0;
+        saldoMoneyEnd=totalSum;
+
     }
 
     console.log(daysFromTotalSum, saldoMoneyEnd);
