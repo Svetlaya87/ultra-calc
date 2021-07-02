@@ -1,0 +1,3602 @@
+[
+  {
+    "qDays": 1,
+    "pricePerDay": "20,00",
+    "paymentSum": 20
+  },
+  {
+    "qDays": 2,
+    "pricePerDay": "19,16",
+    "paymentSum": 38.32
+  },
+  {
+    "qDays": 3,
+    "pricePerDay": "18,76",
+    "paymentSum": 56.28
+  },
+  {
+    "qDays": 4,
+    "pricePerDay": "15,48",
+    "paymentSum": 61.9
+  },
+  {
+    "qDays": 5,
+    "pricePerDay": "13,88",
+    "paymentSum": 69.41
+  },
+  {
+    "qDays": 6,
+    "pricePerDay": "12,82",
+    "paymentSum": 76.91
+  },
+  {
+    "qDays": 7,
+    "pricePerDay": "12,06",
+    "paymentSum": 84.41
+  },
+  {
+    "qDays": 8,
+    "pricePerDay": "11,49",
+    "paymentSum": 91.92
+  },
+  {
+    "qDays": 9,
+    "pricePerDay": "11,48",
+    "paymentSum": 103.32
+  },
+  {
+    "qDays": 10,
+    "pricePerDay": "11,41",
+    "paymentSum": 114.08
+  },
+  {
+    "qDays": 11,
+    "pricePerDay": "10,70",
+    "paymentSum": 117.7
+  },
+  {
+    "qDays": 12,
+    "pricePerDay": "10,49",
+    "paymentSum": 125.87
+  },
+  {
+    "qDays": 13,
+    "pricePerDay": "10,31",
+    "paymentSum": 134.04
+  },
+  {
+    "qDays": 14,
+    "pricePerDay": "10,04",
+    "paymentSum": 140.58
+  },
+  {
+    "qDays": 15,
+    "pricePerDay": "10,00",
+    "paymentSum": 149.98
+  },
+  {
+    "qDays": 16,
+    "pricePerDay": "9,71",
+    "paymentSum": 155.29
+  },
+  {
+    "qDays": 17,
+    "pricePerDay": "9,62",
+    "paymentSum": 163.47
+  },
+  {
+    "qDays": 18,
+    "pricePerDay": "9,54",
+    "paymentSum": 171.64
+  },
+  {
+    "qDays": 19,
+    "pricePerDay": "9,46",
+    "paymentSum": 179.81
+  },
+  {
+    "qDays": 20,
+    "pricePerDay": "9,32",
+    "paymentSum": 186.35
+  },
+  {
+    "qDays": 21,
+    "pricePerDay": "9,26",
+    "paymentSum": 194.53
+  },
+  {
+    "qDays": 22,
+    "pricePerDay": "9,14",
+    "paymentSum": 201.04
+  },
+  {
+    "qDays": 23,
+    "pricePerDay": "9,09",
+    "paymentSum": 209.14
+  },
+  {
+    "qDays": 24,
+    "pricePerDay": "9,05",
+    "paymentSum": 217.25
+  },
+  {
+    "qDays": 25,
+    "pricePerDay": "8,95",
+    "paymentSum": 223.74
+  },
+  {
+    "qDays": 26,
+    "pricePerDay": "8,92",
+    "paymentSum": 231.84
+  },
+  {
+    "qDays": 27,
+    "pricePerDay": "8,83",
+    "paymentSum": 238.33
+  },
+  {
+    "qDays": 28,
+    "pricePerDay": "8,80",
+    "paymentSum": 246.43
+  },
+  {
+    "qDays": 29,
+    "pricePerDay": "8,72",
+    "paymentSum": 252.92
+  },
+  {
+    "qDays": 30,
+    "pricePerDay": "8,63",
+    "paymentSum": 259
+  },
+  {
+    "qDays": 31,
+    "pricePerDay": "8,63",
+    "paymentSum": 267.48
+  },
+  {
+    "qDays": 32,
+    "pricePerDay": "8,63",
+    "paymentSum": 276.06
+  },
+  {
+    "qDays": 33,
+    "pricePerDay": "8,59",
+    "paymentSum": 283.63
+  },
+  {
+    "qDays": 34,
+    "pricePerDay": "8,58",
+    "paymentSum": 291.86
+  },
+  {
+    "qDays": 35,
+    "pricePerDay": "8,57",
+    "paymentSum": 300
+  },
+  {
+    "qDays": 36,
+    "pricePerDay": "8,57",
+    "paymentSum": 308.46
+  },
+  {
+    "qDays": 37,
+    "pricePerDay": "8,48",
+    "paymentSum": 313.86
+  },
+  {
+    "qDays": 38,
+    "pricePerDay": "8,49",
+    "paymentSum": 322.74
+  },
+  {
+    "qDays": 39,
+    "pricePerDay": "8,45",
+    "paymentSum": 329.64
+  },
+  {
+    "qDays": 40,
+    "pricePerDay": "8,42",
+    "paymentSum": 336.81
+  },
+  {
+    "qDays": 41,
+    "pricePerDay": "8,39",
+    "paymentSum": 344.01
+  },
+  {
+    "qDays": 42,
+    "pricePerDay": "8,36",
+    "paymentSum": 351.18
+  },
+  {
+    "qDays": 43,
+    "pricePerDay": "8,33",
+    "paymentSum": 358.39
+  },
+  {
+    "qDays": 44,
+    "pricePerDay": "8,31",
+    "paymentSum": 365.6
+  },
+  {
+    "qDays": 45,
+    "pricePerDay": "8,29",
+    "paymentSum": 372.83
+  },
+  {
+    "qDays": 46,
+    "pricePerDay": "8,26",
+    "paymentSum": 380.04
+  },
+  {
+    "qDays": 47,
+    "pricePerDay": "8,24",
+    "paymentSum": 387.29
+  },
+  {
+    "qDays": 48,
+    "pricePerDay": "8,22",
+    "paymentSum": 394.53
+  },
+  {
+    "qDays": 49,
+    "pricePerDay": "8,20",
+    "paymentSum": 401.8
+  },
+  {
+    "qDays": 50,
+    "pricePerDay": "8,18",
+    "paymentSum": 409.05
+  },
+  {
+    "qDays": 51,
+    "pricePerDay": "8,16",
+    "paymentSum": 416.34
+  },
+  {
+    "qDays": 52,
+    "pricePerDay": "8,15",
+    "paymentSum": 423.63
+  },
+  {
+    "qDays": 53,
+    "pricePerDay": "8,13",
+    "paymentSum": 430.93
+  },
+  {
+    "qDays": 54,
+    "pricePerDay": "8,12",
+    "paymentSum": 438.22
+  },
+  {
+    "qDays": 55,
+    "pricePerDay": "8,10",
+    "paymentSum": 445.54
+  },
+  {
+    "qDays": 56,
+    "pricePerDay": "8,09",
+    "paymentSum": 452.85
+  },
+  {
+    "qDays": 57,
+    "pricePerDay": "8,07",
+    "paymentSum": 460.2
+  },
+  {
+    "qDays": 58,
+    "pricePerDay": "8,06",
+    "paymentSum": 467.52
+  },
+  {
+    "qDays": 59,
+    "pricePerDay": "8,01",
+    "paymentSum": 472.32
+  },
+  {
+    "qDays": 60,
+    "pricePerDay": "7,98",
+    "paymentSum": 479
+  },
+  {
+    "qDays": 61,
+    "pricePerDay": "7,95",
+    "paymentSum": 485.11
+  },
+  {
+    "qDays": 62,
+    "pricePerDay": "7,91",
+    "paymentSum": 490.39
+  },
+  {
+    "qDays": 63,
+    "pricePerDay": "7,87",
+    "paymentSum": 495.64
+  },
+  {
+    "qDays": 64,
+    "pricePerDay": "7,83",
+    "paymentSum": 500.96
+  },
+  {
+    "qDays": 65,
+    "pricePerDay": "7,79",
+    "paymentSum": 506.23
+  },
+  {
+    "qDays": 66,
+    "pricePerDay": "7,73",
+    "paymentSum": 510.24
+  },
+  {
+    "qDays": 67,
+    "pricePerDay": "7,69",
+    "paymentSum": 515.54
+  },
+  {
+    "qDays": 68,
+    "pricePerDay": "7,66",
+    "paymentSum": 520.84
+  },
+  {
+    "qDays": 69,
+    "pricePerDay": "7,63",
+    "paymentSum": 526.14
+  },
+  {
+    "qDays": 70,
+    "pricePerDay": "7,59",
+    "paymentSum": 531.46
+  },
+  {
+    "qDays": 71,
+    "pricePerDay": "7,56",
+    "paymentSum": 536.76
+  },
+  {
+    "qDays": 72,
+    "pricePerDay": "7,53",
+    "paymentSum": 542.12
+  },
+  {
+    "qDays": 73,
+    "pricePerDay": "7,50",
+    "paymentSum": 547.44
+  },
+  {
+    "qDays": 74,
+    "pricePerDay": "7,47",
+    "paymentSum": 552.76
+  },
+  {
+    "qDays": 75,
+    "pricePerDay": "7,44",
+    "paymentSum": 558.13
+  },
+  {
+    "qDays": 76,
+    "pricePerDay": "7,41",
+    "paymentSum": 563.47
+  },
+  {
+    "qDays": 77,
+    "pricePerDay": "7,39",
+    "paymentSum": 568.83
+  },
+  {
+    "qDays": 78,
+    "pricePerDay": "7,36",
+    "paymentSum": 573.7
+  },
+  {
+    "qDays": 79,
+    "pricePerDay": "7,32",
+    "paymentSum": 578.59
+  },
+  {
+    "qDays": 80,
+    "pricePerDay": "7,29",
+    "paymentSum": 583.46
+  },
+  {
+    "qDays": 81,
+    "pricePerDay": "7,23",
+    "paymentSum": 585.35
+  },
+  {
+    "qDays": 82,
+    "pricePerDay": "7,24",
+    "paymentSum": 593.71
+  },
+  {
+    "qDays": 83,
+    "pricePerDay": "7,21",
+    "paymentSum": 598.6
+  },
+  {
+    "qDays": 84,
+    "pricePerDay": "7,18",
+    "paymentSum": 603.46
+  },
+  {
+    "qDays": 85,
+    "pricePerDay": "7,16",
+    "paymentSum": 608.32
+  },
+  {
+    "qDays": 86,
+    "pricePerDay": "7,13",
+    "paymentSum": 613.18
+  },
+  {
+    "qDays": 87,
+    "pricePerDay": "7,10",
+    "paymentSum": 618.06
+  },
+  {
+    "qDays": 88,
+    "pricePerDay": "7,08",
+    "paymentSum": 622.92
+  },
+  {
+    "qDays": 89,
+    "pricePerDay": "7,06",
+    "paymentSum": 628.31
+  },
+  {
+    "qDays": 90,
+    "pricePerDay": "7,04",
+    "paymentSum": 633.72
+  },
+  {
+    "qDays": 91,
+    "pricePerDay": "7,00",
+    "paymentSum": 636.8
+  },
+  {
+    "qDays": 92,
+    "pricePerDay": "6,95",
+    "paymentSum": 639.6
+  },
+  {
+    "qDays": 93,
+    "pricePerDay": "6,91",
+    "paymentSum": 642.41
+  },
+  {
+    "qDays": 94,
+    "pricePerDay": "6,86",
+    "paymentSum": 645.19
+  },
+  {
+    "qDays": 95,
+    "pricePerDay": "6,82",
+    "paymentSum": 648.01
+  },
+  {
+    "qDays": 96,
+    "pricePerDay": "6,78",
+    "paymentSum": 650.84
+  },
+  {
+    "qDays": 97,
+    "pricePerDay": "6,74",
+    "paymentSum": 653.62
+  },
+  {
+    "qDays": 98,
+    "pricePerDay": "6,70",
+    "paymentSum": 656.44
+  },
+  {
+    "qDays": 99,
+    "pricePerDay": "6,66",
+    "paymentSum": 659.27
+  },
+  {
+    "qDays": 100,
+    "pricePerDay": "6,62",
+    "paymentSum": 662.07
+  },
+  {
+    "qDays": 101,
+    "pricePerDay": "6,58",
+    "paymentSum": 664.89
+  },
+  {
+    "qDays": 102,
+    "pricePerDay": "6,55",
+    "paymentSum": 667.72
+  },
+  {
+    "qDays": 103,
+    "pricePerDay": "6,51",
+    "paymentSum": 670.56
+  },
+  {
+    "qDays": 104,
+    "pricePerDay": "6,47",
+    "paymentSum": 673.39
+  },
+  {
+    "qDays": 105,
+    "pricePerDay": "6,44",
+    "paymentSum": 676.23
+  },
+  {
+    "qDays": 106,
+    "pricePerDay": "6,41",
+    "paymentSum": 679.07
+  },
+  {
+    "qDays": 107,
+    "pricePerDay": "6,37",
+    "paymentSum": 681.9
+  },
+  {
+    "qDays": 108,
+    "pricePerDay": "6,34",
+    "paymentSum": 684.76
+  },
+  {
+    "qDays": 109,
+    "pricePerDay": "6,31",
+    "paymentSum": 687.59
+  },
+  {
+    "qDays": 110,
+    "pricePerDay": "6,28",
+    "paymentSum": 690.45
+  },
+  {
+    "qDays": 111,
+    "pricePerDay": "6,25",
+    "paymentSum": 693.3
+  },
+  {
+    "qDays": 112,
+    "pricePerDay": "6,22",
+    "paymentSum": 696.19
+  },
+  {
+    "qDays": 113,
+    "pricePerDay": "6,19",
+    "paymentSum": 699.03
+  },
+  {
+    "qDays": 114,
+    "pricePerDay": "6,16",
+    "paymentSum": 701.88
+  },
+  {
+    "qDays": 115,
+    "pricePerDay": "6,13",
+    "paymentSum": 704.78
+  },
+  {
+    "qDays": 116,
+    "pricePerDay": "6,10",
+    "paymentSum": 707.63
+  },
+  {
+    "qDays": 117,
+    "pricePerDay": "6,07",
+    "paymentSum": 710.5
+  },
+  {
+    "qDays": 118,
+    "pricePerDay": "6,05",
+    "paymentSum": 713.4
+  },
+  {
+    "qDays": 119,
+    "pricePerDay": "6,02",
+    "paymentSum": 716.25
+  },
+  {
+    "qDays": 120,
+    "pricePerDay": "5,99",
+    "paymentSum": 719.14
+  },
+  {
+    "qDays": 121,
+    "pricePerDay": "5,97",
+    "paymentSum": 722.06
+  },
+  {
+    "qDays": 122,
+    "pricePerDay": "5,94",
+    "paymentSum": 724.91
+  },
+  {
+    "qDays": 123,
+    "pricePerDay": "5,92",
+    "paymentSum": 727.8
+  },
+  {
+    "qDays": 124,
+    "pricePerDay": "5,89",
+    "paymentSum": 730.72
+  },
+  {
+    "qDays": 125,
+    "pricePerDay": "5,87",
+    "paymentSum": 733.59
+  },
+  {
+    "qDays": 126,
+    "pricePerDay": "5,85",
+    "paymentSum": 736.5
+  },
+  {
+    "qDays": 127,
+    "pricePerDay": "5,82",
+    "paymentSum": 739.39
+  },
+  {
+    "qDays": 128,
+    "pricePerDay": "5,80",
+    "paymentSum": 742.31
+  },
+  {
+    "qDays": 129,
+    "pricePerDay": "5,78",
+    "paymentSum": 745.22
+  },
+  {
+    "qDays": 130,
+    "pricePerDay": "5,75",
+    "paymentSum": 748.13
+  },
+  {
+    "qDays": 131,
+    "pricePerDay": "5,73",
+    "paymentSum": 751.06
+  },
+  {
+    "qDays": 132,
+    "pricePerDay": "5,71",
+    "paymentSum": 753.97
+  },
+  {
+    "qDays": 133,
+    "pricePerDay": "5,69",
+    "paymentSum": 756.9
+  },
+  {
+    "qDays": 134,
+    "pricePerDay": "5,67",
+    "paymentSum": 759.81
+  },
+  {
+    "qDays": 135,
+    "pricePerDay": "5,65",
+    "paymentSum": 762.75
+  },
+  {
+    "qDays": 136,
+    "pricePerDay": "5,63",
+    "paymentSum": 765.68
+  },
+  {
+    "qDays": 137,
+    "pricePerDay": "5,61",
+    "paymentSum": 768.63
+  },
+  {
+    "qDays": 138,
+    "pricePerDay": "5,59",
+    "paymentSum": 771.56
+  },
+  {
+    "qDays": 139,
+    "pricePerDay": "5,57",
+    "paymentSum": 774.51
+  },
+  {
+    "qDays": 140,
+    "pricePerDay": "5,55",
+    "paymentSum": 777.44
+  },
+  {
+    "qDays": 141,
+    "pricePerDay": "5,53",
+    "paymentSum": 780.39
+  },
+  {
+    "qDays": 142,
+    "pricePerDay": "5,52",
+    "paymentSum": 783.34
+  },
+  {
+    "qDays": 143,
+    "pricePerDay": "5,50",
+    "paymentSum": 786.31
+  },
+  {
+    "qDays": 144,
+    "pricePerDay": "5,48",
+    "paymentSum": 789.26
+  },
+  {
+    "qDays": 145,
+    "pricePerDay": "5,46",
+    "paymentSum": 792.22
+  },
+  {
+    "qDays": 146,
+    "pricePerDay": "5,45",
+    "paymentSum": 795.17
+  },
+  {
+    "qDays": 147,
+    "pricePerDay": "5,43",
+    "paymentSum": 798.14
+  },
+  {
+    "qDays": 148,
+    "pricePerDay": "5,41",
+    "paymentSum": 801.11
+  },
+  {
+    "qDays": 149,
+    "pricePerDay": "5,40",
+    "paymentSum": 804.12
+  },
+  {
+    "qDays": 150,
+    "pricePerDay": "5,38",
+    "paymentSum": 807.07
+  },
+  {
+    "qDays": 151,
+    "pricePerDay": "5,36",
+    "paymentSum": 810.04
+  },
+  {
+    "qDays": 152,
+    "pricePerDay": "5,35",
+    "paymentSum": 813.03
+  },
+  {
+    "qDays": 153,
+    "pricePerDay": "5,33",
+    "paymentSum": 816.01
+  },
+  {
+    "qDays": 154,
+    "pricePerDay": "5,32",
+    "paymentSum": 819
+  },
+  {
+    "qDays": 155,
+    "pricePerDay": "5,30",
+    "paymentSum": 821.99
+  },
+  {
+    "qDays": 156,
+    "pricePerDay": "5,29",
+    "paymentSum": 824.98
+  },
+  {
+    "qDays": 157,
+    "pricePerDay": "5,27",
+    "paymentSum": 827.98
+  },
+  {
+    "qDays": 158,
+    "pricePerDay": "5,26",
+    "paymentSum": 830.99
+  },
+  {
+    "qDays": 159,
+    "pricePerDay": "5,25",
+    "paymentSum": 833.98
+  },
+  {
+    "qDays": 160,
+    "pricePerDay": "5,23",
+    "paymentSum": 836.99
+  },
+  {
+    "qDays": 161,
+    "pricePerDay": "5,22",
+    "paymentSum": 840.01
+  },
+  {
+    "qDays": 162,
+    "pricePerDay": "5,20",
+    "paymentSum": 843.02
+  },
+  {
+    "qDays": 163,
+    "pricePerDay": "5,19",
+    "paymentSum": 846.04
+  },
+  {
+    "qDays": 164,
+    "pricePerDay": "5,18",
+    "paymentSum": 849.05
+  },
+  {
+    "qDays": 165,
+    "pricePerDay": "5,16",
+    "paymentSum": 852.08
+  },
+  {
+    "qDays": 166,
+    "pricePerDay": "5,15",
+    "paymentSum": 855.1
+  },
+  {
+    "qDays": 167,
+    "pricePerDay": "5,14",
+    "paymentSum": 858.13
+  },
+  {
+    "qDays": 168,
+    "pricePerDay": "5,13",
+    "paymentSum": 861.15
+  },
+  {
+    "qDays": 169,
+    "pricePerDay": "5,11",
+    "paymentSum": 864.2
+  },
+  {
+    "qDays": 170,
+    "pricePerDay": "5,10",
+    "paymentSum": 867.24
+  },
+  {
+    "qDays": 171,
+    "pricePerDay": "5,09",
+    "paymentSum": 870.27
+  },
+  {
+    "qDays": 172,
+    "pricePerDay": "5,08",
+    "paymentSum": 873.32
+  },
+  {
+    "qDays": 173,
+    "pricePerDay": "5,07",
+    "paymentSum": 876.36
+  },
+  {
+    "qDays": 174,
+    "pricePerDay": "5,05",
+    "paymentSum": 879.44
+  },
+  {
+    "qDays": 175,
+    "pricePerDay": "5,04",
+    "paymentSum": 882.47
+  },
+  {
+    "qDays": 176,
+    "pricePerDay": "5,03",
+    "paymentSum": 885.53
+  },
+  {
+    "qDays": 177,
+    "pricePerDay": "5,02",
+    "paymentSum": 888.6
+  },
+  {
+    "qDays": 178,
+    "pricePerDay": "5,01",
+    "paymentSum": 891.66
+  },
+  {
+    "qDays": 179,
+    "pricePerDay": "5,00",
+    "paymentSum": 894.73
+  },
+  {
+    "qDays": 180,
+    "pricePerDay": "4,99",
+    "paymentSum": 899
+  },
+  {
+    "qDays": 181,
+    "pricePerDay": "4,97",
+    "paymentSum": 900.18
+  },
+  {
+    "qDays": 182,
+    "pricePerDay": "4,96",
+    "paymentSum": 903.62
+  },
+  {
+    "qDays": 183,
+    "pricePerDay": "4,95",
+    "paymentSum": 905.55
+  },
+  {
+    "qDays": 184,
+    "pricePerDay": "4,93",
+    "paymentSum": 907.47
+  },
+  {
+    "qDays": 185,
+    "pricePerDay": "4,92",
+    "paymentSum": 909.37
+  },
+  {
+    "qDays": 186,
+    "pricePerDay": "4,90",
+    "paymentSum": 911.29
+  },
+  {
+    "qDays": 187,
+    "pricePerDay": "4,88",
+    "paymentSum": 913.24
+  },
+  {
+    "qDays": 188,
+    "pricePerDay": "4,87",
+    "paymentSum": 915.13
+  },
+  {
+    "qDays": 189,
+    "pricePerDay": "4,85",
+    "paymentSum": 917.03
+  },
+  {
+    "qDays": 190,
+    "pricePerDay": "4,84",
+    "paymentSum": 918.95
+  },
+  {
+    "qDays": 191,
+    "pricePerDay": "4,82",
+    "paymentSum": 920.88
+  },
+  {
+    "qDays": 192,
+    "pricePerDay": "4,81",
+    "paymentSum": 923.53
+  },
+  {
+    "qDays": 193,
+    "pricePerDay": "4,80",
+    "paymentSum": 926.23
+  },
+  {
+    "qDays": 194,
+    "pricePerDay": "4,79",
+    "paymentSum": 928.93
+  },
+  {
+    "qDays": 195,
+    "pricePerDay": "4,78",
+    "paymentSum": 931.62
+  },
+  {
+    "qDays": 196,
+    "pricePerDay": "4,77",
+    "paymentSum": 934.32
+  },
+  {
+    "qDays": 197,
+    "pricePerDay": "4,76",
+    "paymentSum": 937.04
+  },
+  {
+    "qDays": 198,
+    "pricePerDay": "4,75",
+    "paymentSum": 939.77
+  },
+  {
+    "qDays": 199,
+    "pricePerDay": "4,74",
+    "paymentSum": 942.45
+  },
+  {
+    "qDays": 200,
+    "pricePerDay": "4,73",
+    "paymentSum": 945.16
+  },
+  {
+    "qDays": 201,
+    "pricePerDay": "4,71",
+    "paymentSum": 947.07
+  },
+  {
+    "qDays": 202,
+    "pricePerDay": "4,70",
+    "paymentSum": 949.78
+  },
+  {
+    "qDays": 203,
+    "pricePerDay": "4,69",
+    "paymentSum": 952.51
+  },
+  {
+    "qDays": 204,
+    "pricePerDay": "4,68",
+    "paymentSum": 955.22
+  },
+  {
+    "qDays": 205,
+    "pricePerDay": "4,67",
+    "paymentSum": 957.98
+  },
+  {
+    "qDays": 206,
+    "pricePerDay": "4,66",
+    "paymentSum": 960.67
+  },
+  {
+    "qDays": 207,
+    "pricePerDay": "4,65",
+    "paymentSum": 963.4
+  },
+  {
+    "qDays": 208,
+    "pricePerDay": "4,64",
+    "paymentSum": 966.13
+  },
+  {
+    "qDays": 209,
+    "pricePerDay": "4,64",
+    "paymentSum": 968.86
+  },
+  {
+    "qDays": 210,
+    "pricePerDay": "4,63",
+    "paymentSum": 971.6
+  },
+  {
+    "qDays": 211,
+    "pricePerDay": "4,61",
+    "paymentSum": 973.51
+  },
+  {
+    "qDays": 212,
+    "pricePerDay": "4,61",
+    "paymentSum": 976.28
+  },
+  {
+    "qDays": 213,
+    "pricePerDay": "4,60",
+    "paymentSum": 978.99
+  },
+  {
+    "qDays": 214,
+    "pricePerDay": "4,59",
+    "paymentSum": 981.74
+  },
+  {
+    "qDays": 215,
+    "pricePerDay": "4,58",
+    "paymentSum": 984.49
+  },
+  {
+    "qDays": 216,
+    "pricePerDay": "4,57",
+    "paymentSum": 987.25
+  },
+  {
+    "qDays": 217,
+    "pricePerDay": "4,56",
+    "paymentSum": 989.98
+  },
+  {
+    "qDays": 218,
+    "pricePerDay": "4,55",
+    "paymentSum": 992.75
+  },
+  {
+    "qDays": 219,
+    "pricePerDay": "4,55",
+    "paymentSum": 995.5
+  },
+  {
+    "qDays": 220,
+    "pricePerDay": "4,54",
+    "paymentSum": 998.27
+  },
+  {
+    "qDays": 221,
+    "pricePerDay": "4,53",
+    "paymentSum": 1000.16
+  },
+  {
+    "qDays": 222,
+    "pricePerDay": "4,52",
+    "paymentSum": 1002.92
+  },
+  {
+    "qDays": 223,
+    "pricePerDay": "4,51",
+    "paymentSum": 1005.72
+  },
+  {
+    "qDays": 224,
+    "pricePerDay": "4,50",
+    "paymentSum": 1008.47
+  },
+  {
+    "qDays": 225,
+    "pricePerDay": "4,49",
+    "paymentSum": 1011.23
+  },
+  {
+    "qDays": 226,
+    "pricePerDay": "4,49",
+    "paymentSum": 1014
+  },
+  {
+    "qDays": 227,
+    "pricePerDay": "4,48",
+    "paymentSum": 1016.78
+  },
+  {
+    "qDays": 228,
+    "pricePerDay": "4,47",
+    "paymentSum": 1019.57
+  },
+  {
+    "qDays": 229,
+    "pricePerDay": "4,46",
+    "paymentSum": 1022.35
+  },
+  {
+    "qDays": 230,
+    "pricePerDay": "4,46",
+    "paymentSum": 1025.15
+  },
+  {
+    "qDays": 231,
+    "pricePerDay": "4,45",
+    "paymentSum": 1027.04
+  },
+  {
+    "qDays": 232,
+    "pricePerDay": "4,44",
+    "paymentSum": 1029.82
+  },
+  {
+    "qDays": 233,
+    "pricePerDay": "4,43",
+    "paymentSum": 1032.62
+  },
+  {
+    "qDays": 234,
+    "pricePerDay": "4,42",
+    "paymentSum": 1035.4
+  },
+  {
+    "qDays": 235,
+    "pricePerDay": "4,42",
+    "paymentSum": 1038.2
+  },
+  {
+    "qDays": 236,
+    "pricePerDay": "4,41",
+    "paymentSum": 1041
+  },
+  {
+    "qDays": 237,
+    "pricePerDay": "4,40",
+    "paymentSum": 1043.8
+  },
+  {
+    "qDays": 238,
+    "pricePerDay": "4,40",
+    "paymentSum": 1046.6
+  },
+  {
+    "qDays": 239,
+    "pricePerDay": "4,39",
+    "paymentSum": 1049.4
+  },
+  {
+    "qDays": 240,
+    "pricePerDay": "4,38",
+    "paymentSum": 1052.22
+  },
+  {
+    "qDays": 241,
+    "pricePerDay": "4,38",
+    "paymentSum": 1055.05
+  },
+  {
+    "qDays": 242,
+    "pricePerDay": "4,37",
+    "paymentSum": 1057.83
+  },
+  {
+    "qDays": 243,
+    "pricePerDay": "4,36",
+    "paymentSum": 1060.65
+  },
+  {
+    "qDays": 244,
+    "pricePerDay": "4,36",
+    "paymentSum": 1063.47
+  },
+  {
+    "qDays": 245,
+    "pricePerDay": "4,35",
+    "paymentSum": 1066.29
+  },
+  {
+    "qDays": 246,
+    "pricePerDay": "4,35",
+    "paymentSum": 1069.11
+  },
+  {
+    "qDays": 247,
+    "pricePerDay": "4,34",
+    "paymentSum": 1071.93
+  },
+  {
+    "qDays": 248,
+    "pricePerDay": "4,33",
+    "paymentSum": 1074.78
+  },
+  {
+    "qDays": 249,
+    "pricePerDay": "4,33",
+    "paymentSum": 1077.6
+  },
+  {
+    "qDays": 250,
+    "pricePerDay": "4,32",
+    "paymentSum": 1080.42
+  },
+  {
+    "qDays": 251,
+    "pricePerDay": "4,32",
+    "paymentSum": 1083.26
+  },
+  {
+    "qDays": 252,
+    "pricePerDay": "4,31",
+    "paymentSum": 1086.1
+  },
+  {
+    "qDays": 253,
+    "pricePerDay": "4,30",
+    "paymentSum": 1088.95
+  },
+  {
+    "qDays": 254,
+    "pricePerDay": "4,30",
+    "paymentSum": 1091.79
+  },
+  {
+    "qDays": 255,
+    "pricePerDay": "4,29",
+    "paymentSum": 1094.67
+  },
+  {
+    "qDays": 256,
+    "pricePerDay": "4,29",
+    "paymentSum": 1097.48
+  },
+  {
+    "qDays": 257,
+    "pricePerDay": "4,28",
+    "paymentSum": 1100.34
+  },
+  {
+    "qDays": 258,
+    "pricePerDay": "4,28",
+    "paymentSum": 1103.2
+  },
+  {
+    "qDays": 259,
+    "pricePerDay": "4,27",
+    "paymentSum": 1106.05
+  },
+  {
+    "qDays": 260,
+    "pricePerDay": "4,27",
+    "paymentSum": 1108.91
+  },
+  {
+    "qDays": 261,
+    "pricePerDay": "4,26",
+    "paymentSum": 1111.77
+  },
+  {
+    "qDays": 262,
+    "pricePerDay": "4,25",
+    "paymentSum": 1114.64
+  },
+  {
+    "qDays": 263,
+    "pricePerDay": "4,25",
+    "paymentSum": 1117.5
+  },
+  {
+    "qDays": 264,
+    "pricePerDay": "4,24",
+    "paymentSum": 1120.37
+  },
+  {
+    "qDays": 265,
+    "pricePerDay": "4,24",
+    "paymentSum": 1123.25
+  },
+  {
+    "qDays": 266,
+    "pricePerDay": "4,23",
+    "paymentSum": 1126.12
+  },
+  {
+    "qDays": 267,
+    "pricePerDay": "4,23",
+    "paymentSum": 1129
+  },
+  {
+    "qDays": 268,
+    "pricePerDay": "4,22",
+    "paymentSum": 1131.87
+  },
+  {
+    "qDays": 269,
+    "pricePerDay": "4,22",
+    "paymentSum": 1134.77
+  },
+  {
+    "qDays": 270,
+    "pricePerDay": "4,21",
+    "paymentSum": 1137.64
+  },
+  {
+    "qDays": 271,
+    "pricePerDay": "4,21",
+    "paymentSum": 1140.54
+  },
+  {
+    "qDays": 272,
+    "pricePerDay": "4,20",
+    "paymentSum": 1143.43
+  },
+  {
+    "qDays": 273,
+    "pricePerDay": "4,20",
+    "paymentSum": 1146.32
+  },
+  {
+    "qDays": 274,
+    "pricePerDay": "4,19",
+    "paymentSum": 1149.22
+  },
+  {
+    "qDays": 275,
+    "pricePerDay": "4,19",
+    "paymentSum": 1152.11
+  },
+  {
+    "qDays": 276,
+    "pricePerDay": "4,18",
+    "paymentSum": 1155.02
+  },
+  {
+    "qDays": 277,
+    "pricePerDay": "4,18",
+    "paymentSum": 1157.92
+  },
+  {
+    "qDays": 278,
+    "pricePerDay": "4,18",
+    "paymentSum": 1160.83
+  },
+  {
+    "qDays": 279,
+    "pricePerDay": "4,17",
+    "paymentSum": 1163.74
+  },
+  {
+    "qDays": 280,
+    "pricePerDay": "4,17",
+    "paymentSum": 1166.66
+  },
+  {
+    "qDays": 281,
+    "pricePerDay": "4,16",
+    "paymentSum": 1169.57
+  },
+  {
+    "qDays": 282,
+    "pricePerDay": "4,16",
+    "paymentSum": 1172.48
+  },
+  {
+    "qDays": 283,
+    "pricePerDay": "4,15",
+    "paymentSum": 1175.39
+  },
+  {
+    "qDays": 284,
+    "pricePerDay": "4,15",
+    "paymentSum": 1178.32
+  },
+  {
+    "qDays": 285,
+    "pricePerDay": "4,14",
+    "paymentSum": 1181.24
+  },
+  {
+    "qDays": 286,
+    "pricePerDay": "4,14",
+    "paymentSum": 1184.17
+  },
+  {
+    "qDays": 287,
+    "pricePerDay": "4,14",
+    "paymentSum": 1187.1
+  },
+  {
+    "qDays": 288,
+    "pricePerDay": "4,13",
+    "paymentSum": 1190.03
+  },
+  {
+    "qDays": 289,
+    "pricePerDay": "4,13",
+    "paymentSum": 1192.96
+  },
+  {
+    "qDays": 290,
+    "pricePerDay": "4,12",
+    "paymentSum": 1195.91
+  },
+  {
+    "qDays": 291,
+    "pricePerDay": "4,12",
+    "paymentSum": 1198.84
+  },
+  {
+    "qDays": 292,
+    "pricePerDay": "4,12",
+    "paymentSum": 1201.79
+  },
+  {
+    "qDays": 293,
+    "pricePerDay": "4,11",
+    "paymentSum": 1204.73
+  },
+  {
+    "qDays": 294,
+    "pricePerDay": "4,11",
+    "paymentSum": 1207.68
+  },
+  {
+    "qDays": 295,
+    "pricePerDay": "4,10",
+    "paymentSum": 1210.63
+  },
+  {
+    "qDays": 296,
+    "pricePerDay": "4,10",
+    "paymentSum": 1213.58
+  },
+  {
+    "qDays": 297,
+    "pricePerDay": "4,10",
+    "paymentSum": 1216.55
+  },
+  {
+    "qDays": 298,
+    "pricePerDay": "4,09",
+    "paymentSum": 1219.5
+  },
+  {
+    "qDays": 299,
+    "pricePerDay": "4,09",
+    "paymentSum": 1222.47
+  },
+  {
+    "qDays": 300,
+    "pricePerDay": "4,08",
+    "paymentSum": 1225.25
+  },
+  {
+    "qDays": 301,
+    "pricePerDay": "4,08",
+    "paymentSum": 1227.56
+  },
+  {
+    "qDays": 302,
+    "pricePerDay": "4,07",
+    "paymentSum": 1230.53
+  },
+  {
+    "qDays": 303,
+    "pricePerDay": "4,07",
+    "paymentSum": 1233.5
+  },
+  {
+    "qDays": 304,
+    "pricePerDay": "4,07",
+    "paymentSum": 1236.48
+  },
+  {
+    "qDays": 305,
+    "pricePerDay": "4,06",
+    "paymentSum": 1239.45
+  },
+  {
+    "qDays": 306,
+    "pricePerDay": "4,06",
+    "paymentSum": 1242.43
+  },
+  {
+    "qDays": 307,
+    "pricePerDay": "4,06",
+    "paymentSum": 1245.4
+  },
+  {
+    "qDays": 308,
+    "pricePerDay": "4,05",
+    "paymentSum": 1248.39
+  },
+  {
+    "qDays": 309,
+    "pricePerDay": "4,05",
+    "paymentSum": 1251.37
+  },
+  {
+    "qDays": 310,
+    "pricePerDay": "4,05",
+    "paymentSum": 1254.36
+  },
+  {
+    "qDays": 311,
+    "pricePerDay": "4,04",
+    "paymentSum": 1257.34
+  },
+  {
+    "qDays": 312,
+    "pricePerDay": "4,04",
+    "paymentSum": 1260.35
+  },
+  {
+    "qDays": 313,
+    "pricePerDay": "4,04",
+    "paymentSum": 1263.33
+  },
+  {
+    "qDays": 314,
+    "pricePerDay": "4,03",
+    "paymentSum": 1266.34
+  },
+  {
+    "qDays": 315,
+    "pricePerDay": "4,03",
+    "paymentSum": 1269.34
+  },
+  {
+    "qDays": 316,
+    "pricePerDay": "4,03",
+    "paymentSum": 1272.35
+  },
+  {
+    "qDays": 317,
+    "pricePerDay": "4,02",
+    "paymentSum": 1275.35
+  },
+  {
+    "qDays": 318,
+    "pricePerDay": "4,02",
+    "paymentSum": 1278.36
+  },
+  {
+    "qDays": 319,
+    "pricePerDay": "4,02",
+    "paymentSum": 1281.36
+  },
+  {
+    "qDays": 320,
+    "pricePerDay": "4,01",
+    "paymentSum": 1284.39
+  },
+  {
+    "qDays": 321,
+    "pricePerDay": "4,01",
+    "paymentSum": 1287.39
+  },
+  {
+    "qDays": 322,
+    "pricePerDay": "4,01",
+    "paymentSum": 1290.41
+  },
+  {
+    "qDays": 323,
+    "pricePerDay": "4,00",
+    "paymentSum": 1293.44
+  },
+  {
+    "qDays": 324,
+    "pricePerDay": "4,00",
+    "paymentSum": 1296.46
+  },
+  {
+    "qDays": 325,
+    "pricePerDay": "4,00",
+    "paymentSum": 1299.48
+  },
+  {
+    "qDays": 326,
+    "pricePerDay": "4,00",
+    "paymentSum": 1302.53
+  },
+  {
+    "qDays": 327,
+    "pricePerDay": "3,99",
+    "paymentSum": 1305.55
+  },
+  {
+    "qDays": 328,
+    "pricePerDay": "3,99",
+    "paymentSum": 1308.59
+  },
+  {
+    "qDays": 329,
+    "pricePerDay": "3,99",
+    "paymentSum": 1311.61
+  },
+  {
+    "qDays": 330,
+    "pricePerDay": "3,98",
+    "paymentSum": 1312.6
+  },
+  {
+    "qDays": 331,
+    "pricePerDay": "3,97",
+    "paymentSum": 1315.64
+  },
+  {
+    "qDays": 332,
+    "pricePerDay": "3,97",
+    "paymentSum": 1318.67
+  },
+  {
+    "qDays": 333,
+    "pricePerDay": "3,97",
+    "paymentSum": 1321.73
+  },
+  {
+    "qDays": 334,
+    "pricePerDay": "3,97",
+    "paymentSum": 1324.77
+  },
+  {
+    "qDays": 335,
+    "pricePerDay": "3,96",
+    "paymentSum": 1327.82
+  },
+  {
+    "qDays": 336,
+    "pricePerDay": "3,96",
+    "paymentSum": 1330.86
+  },
+  {
+    "qDays": 337,
+    "pricePerDay": "3,96",
+    "paymentSum": 1333.92
+  },
+  {
+    "qDays": 338,
+    "pricePerDay": "3,96",
+    "paymentSum": 1336.97
+  },
+  {
+    "qDays": 339,
+    "pricePerDay": "3,95",
+    "paymentSum": 1340.03
+  },
+  {
+    "qDays": 340,
+    "pricePerDay": "3,95",
+    "paymentSum": 1343.09
+  },
+  {
+    "qDays": 341,
+    "pricePerDay": "3,95",
+    "paymentSum": 1346.16
+  },
+  {
+    "qDays": 342,
+    "pricePerDay": "3,95",
+    "paymentSum": 1349.22
+  },
+  {
+    "qDays": 343,
+    "pricePerDay": "3,94",
+    "paymentSum": 1352.29
+  },
+  {
+    "qDays": 344,
+    "pricePerDay": "3,94",
+    "paymentSum": 1355.37
+  },
+  {
+    "qDays": 345,
+    "pricePerDay": "3,94",
+    "paymentSum": 1358.44
+  },
+  {
+    "qDays": 346,
+    "pricePerDay": "3,94",
+    "paymentSum": 1361.52
+  },
+  {
+    "qDays": 347,
+    "pricePerDay": "3,93",
+    "paymentSum": 1364.59
+  },
+  {
+    "qDays": 348,
+    "pricePerDay": "3,93",
+    "paymentSum": 1367.67
+  },
+  {
+    "qDays": 349,
+    "pricePerDay": "3,92",
+    "paymentSum": 1369.74
+  },
+  {
+    "qDays": 350,
+    "pricePerDay": "3,92",
+    "paymentSum": 1372.81
+  },
+  {
+    "qDays": 351,
+    "pricePerDay": "3,91",
+    "paymentSum": 1373.85
+  },
+  {
+    "qDays": 352,
+    "pricePerDay": "3,91",
+    "paymentSum": 1375.9
+  },
+  {
+    "qDays": 353,
+    "pricePerDay": "3,90",
+    "paymentSum": 1377.95
+  },
+  {
+    "qDays": 354,
+    "pricePerDay": "3,90",
+    "paymentSum": 1382.07
+  },
+  {
+    "qDays": 355,
+    "pricePerDay": "3,90",
+    "paymentSum": 1384.14
+  },
+  {
+    "qDays": 356,
+    "pricePerDay": "3,90",
+    "paymentSum": 1388.26
+  },
+  {
+    "qDays": 357,
+    "pricePerDay": "3,89",
+    "paymentSum": 1390.32
+  },
+  {
+    "qDays": 358,
+    "pricePerDay": "3,90",
+    "paymentSum": 1394.45
+  },
+  {
+    "qDays": 359,
+    "pricePerDay": "3,89",
+    "paymentSum": 1396.5
+  },
+  {
+    "qDays": 360,
+    "pricePerDay": "3,89",
+    "paymentSum": 1399
+  },
+  {
+    "qDays": 361,
+    "pricePerDay": "3,89",
+    "paymentSum": 1402.78
+  },
+  {
+    "qDays": 362,
+    "pricePerDay": "3,88",
+    "paymentSum": 1404.6
+  },
+  {
+    "qDays": 363,
+    "pricePerDay": "3,87",
+    "paymentSum": 1406.4
+  },
+  {
+    "qDays": 364,
+    "pricePerDay": "3,87",
+    "paymentSum": 1408.2
+  },
+  {
+    "qDays": 365,
+    "pricePerDay": "3,86",
+    "paymentSum": 1409.98
+  },
+  {
+    "qDays": 366,
+    "pricePerDay": "3,86",
+    "paymentSum": 1411.76
+  },
+  {
+    "qDays": 367,
+    "pricePerDay": "3,85",
+    "paymentSum": 1413.53
+  },
+  {
+    "qDays": 368,
+    "pricePerDay": "3,85",
+    "paymentSum": 1416.5
+  },
+  {
+    "qDays": 369,
+    "pricePerDay": "3,85",
+    "paymentSum": 1419.47
+  },
+  {
+    "qDays": 370,
+    "pricePerDay": "3,84",
+    "paymentSum": 1422.44
+  },
+  {
+    "qDays": 371,
+    "pricePerDay": "3,84",
+    "paymentSum": 1425.4
+  },
+  {
+    "qDays": 372,
+    "pricePerDay": "3,84",
+    "paymentSum": 1428.36
+  },
+  {
+    "qDays": 373,
+    "pricePerDay": "3,84",
+    "paymentSum": 1431.32
+  },
+  {
+    "qDays": 374,
+    "pricePerDay": "3,83",
+    "paymentSum": 1433.03
+  },
+  {
+    "qDays": 375,
+    "pricePerDay": "3,83",
+    "paymentSum": 1434.73
+  },
+  {
+    "qDays": 376,
+    "pricePerDay": "3,82",
+    "paymentSum": 1436.42
+  },
+  {
+    "qDays": 377,
+    "pricePerDay": "3,81",
+    "paymentSum": 1438.11
+  },
+  {
+    "qDays": 378,
+    "pricePerDay": "3,81",
+    "paymentSum": 1439.78
+  },
+  {
+    "qDays": 379,
+    "pricePerDay": "3,80",
+    "paymentSum": 1441.44
+  },
+  {
+    "qDays": 380,
+    "pricePerDay": "3,80",
+    "paymentSum": 1443.1
+  },
+  {
+    "qDays": 381,
+    "pricePerDay": "3,79",
+    "paymentSum": 1444.74
+  },
+  {
+    "qDays": 382,
+    "pricePerDay": "3,79",
+    "paymentSum": 1446.37
+  },
+  {
+    "qDays": 383,
+    "pricePerDay": "3,78",
+    "paymentSum": 1448
+  },
+  {
+    "qDays": 384,
+    "pricePerDay": "3,78",
+    "paymentSum": 1450.87
+  },
+  {
+    "qDays": 385,
+    "pricePerDay": "3,77",
+    "paymentSum": 1452.48
+  },
+  {
+    "qDays": 386,
+    "pricePerDay": "3,77",
+    "paymentSum": 1454.08
+  },
+  {
+    "qDays": 387,
+    "pricePerDay": "3,76",
+    "paymentSum": 1455.67
+  },
+  {
+    "qDays": 388,
+    "pricePerDay": "3,76",
+    "paymentSum": 1457.24
+  },
+  {
+    "qDays": 389,
+    "pricePerDay": "3,75",
+    "paymentSum": 1458.81
+  },
+  {
+    "qDays": 390,
+    "pricePerDay": "3,74",
+    "paymentSum": 1460.37
+  },
+  {
+    "qDays": 391,
+    "pricePerDay": "3,74",
+    "paymentSum": 1461.92
+  },
+  {
+    "qDays": 392,
+    "pricePerDay": "3,74",
+    "paymentSum": 1464.74
+  },
+  {
+    "qDays": 393,
+    "pricePerDay": "3,73",
+    "paymentSum": 1467.56
+  },
+  {
+    "qDays": 394,
+    "pricePerDay": "3,73",
+    "paymentSum": 1470.37
+  },
+  {
+    "qDays": 395,
+    "pricePerDay": "3,73",
+    "paymentSum": 1473.18
+  },
+  {
+    "qDays": 396,
+    "pricePerDay": "3,73",
+    "paymentSum": 1475.98
+  },
+  {
+    "qDays": 397,
+    "pricePerDay": "3,72",
+    "paymentSum": 1478.78
+  },
+  {
+    "qDays": 398,
+    "pricePerDay": "3,72",
+    "paymentSum": 1481.57
+  },
+  {
+    "qDays": 399,
+    "pricePerDay": "3,72",
+    "paymentSum": 1484.36
+  },
+  {
+    "qDays": 400,
+    "pricePerDay": "3,72",
+    "paymentSum": 1487.14
+  },
+  {
+    "qDays": 401,
+    "pricePerDay": "3,72",
+    "paymentSum": 1489.92
+  },
+  {
+    "qDays": 402,
+    "pricePerDay": "3,71",
+    "paymentSum": 1491.39
+  },
+  {
+    "qDays": 403,
+    "pricePerDay": "3,71",
+    "paymentSum": 1494.16
+  },
+  {
+    "qDays": 404,
+    "pricePerDay": "3,71",
+    "paymentSum": 1496.92
+  },
+  {
+    "qDays": 405,
+    "pricePerDay": "3,70",
+    "paymentSum": 1499.68
+  },
+  {
+    "qDays": 406,
+    "pricePerDay": "3,70",
+    "paymentSum": 1502.43
+  },
+  {
+    "qDays": 407,
+    "pricePerDay": "3,70",
+    "paymentSum": 1505.18
+  },
+  {
+    "qDays": 408,
+    "pricePerDay": "3,70",
+    "paymentSum": 1507.92
+  },
+  {
+    "qDays": 409,
+    "pricePerDay": "3,69",
+    "paymentSum": 1510.66
+  },
+  {
+    "qDays": 410,
+    "pricePerDay": "3,69",
+    "paymentSum": 1513.39
+  },
+  {
+    "qDays": 411,
+    "pricePerDay": "3,69",
+    "paymentSum": 1514.8
+  },
+  {
+    "qDays": 412,
+    "pricePerDay": "3,68",
+    "paymentSum": 1517.52
+  },
+  {
+    "qDays": 413,
+    "pricePerDay": "3,68",
+    "paymentSum": 1520.24
+  },
+  {
+    "qDays": 414,
+    "pricePerDay": "3,68",
+    "paymentSum": 1522.95
+  },
+  {
+    "qDays": 415,
+    "pricePerDay": "3,68",
+    "paymentSum": 1525.66
+  },
+  {
+    "qDays": 416,
+    "pricePerDay": "3,67",
+    "paymentSum": 1528.36
+  },
+  {
+    "qDays": 417,
+    "pricePerDay": "3,67",
+    "paymentSum": 1531.06
+  },
+  {
+    "qDays": 418,
+    "pricePerDay": "3,67",
+    "paymentSum": 1533.76
+  },
+  {
+    "qDays": 419,
+    "pricePerDay": "3,67",
+    "paymentSum": 1536.45
+  },
+  {
+    "qDays": 420,
+    "pricePerDay": "3,66",
+    "paymentSum": 1539.13
+  },
+  {
+    "qDays": 421,
+    "pricePerDay": "3,66",
+    "paymentSum": 1540.46
+  },
+  {
+    "qDays": 422,
+    "pricePerDay": "3,66",
+    "paymentSum": 1543.13
+  },
+  {
+    "qDays": 423,
+    "pricePerDay": "3,65",
+    "paymentSum": 1545.8
+  },
+  {
+    "qDays": 424,
+    "pricePerDay": "3,65",
+    "paymentSum": 1548.47
+  },
+  {
+    "qDays": 425,
+    "pricePerDay": "3,65",
+    "paymentSum": 1551.13
+  },
+  {
+    "qDays": 426,
+    "pricePerDay": "3,65",
+    "paymentSum": 1553.78
+  },
+  {
+    "qDays": 427,
+    "pricePerDay": "3,65",
+    "paymentSum": 1556.43
+  },
+  {
+    "qDays": 428,
+    "pricePerDay": "3,64",
+    "paymentSum": 1559.08
+  },
+  {
+    "qDays": 429,
+    "pricePerDay": "3,64",
+    "paymentSum": 1561.72
+  },
+  {
+    "qDays": 430,
+    "pricePerDay": "3,64",
+    "paymentSum": 1564.35
+  },
+  {
+    "qDays": 431,
+    "pricePerDay": "3,63",
+    "paymentSum": 1566.58
+  },
+  {
+    "qDays": 432,
+    "pricePerDay": "3,63",
+    "paymentSum": 1569.21
+  },
+  {
+    "qDays": 433,
+    "pricePerDay": "3,63",
+    "paymentSum": 1571.83
+  },
+  {
+    "qDays": 434,
+    "pricePerDay": "3,63",
+    "paymentSum": 1574.44
+  },
+  {
+    "qDays": 435,
+    "pricePerDay": "3,63",
+    "paymentSum": 1577.06
+  },
+  {
+    "qDays": 436,
+    "pricePerDay": "3,62",
+    "paymentSum": 1579.66
+  },
+  {
+    "qDays": 437,
+    "pricePerDay": "3,62",
+    "paymentSum": 1582.27
+  },
+  {
+    "qDays": 438,
+    "pricePerDay": "3,62",
+    "paymentSum": 1584.86
+  },
+  {
+    "qDays": 439,
+    "pricePerDay": "3,62",
+    "paymentSum": 1587.46
+  },
+  {
+    "qDays": 440,
+    "pricePerDay": "3,61",
+    "paymentSum": 1590.05
+  },
+  {
+    "qDays": 441,
+    "pricePerDay": "3,61",
+    "paymentSum": 1592.63
+  },
+  {
+    "qDays": 442,
+    "pricePerDay": "3,61",
+    "paymentSum": 1595.21
+  },
+  {
+    "qDays": 443,
+    "pricePerDay": "3,61",
+    "paymentSum": 1597.78
+  },
+  {
+    "qDays": 444,
+    "pricePerDay": "3,60",
+    "paymentSum": 1600.35
+  },
+  {
+    "qDays": 445,
+    "pricePerDay": "3,60",
+    "paymentSum": 1602.92
+  },
+  {
+    "qDays": 446,
+    "pricePerDay": "3,60",
+    "paymentSum": 1605.48
+  },
+  {
+    "qDays": 447,
+    "pricePerDay": "3,60",
+    "paymentSum": 1608.04
+  },
+  {
+    "qDays": 448,
+    "pricePerDay": "3,60",
+    "paymentSum": 1610.59
+  },
+  {
+    "qDays": 449,
+    "pricePerDay": "3,59",
+    "paymentSum": 1613.14
+  },
+  {
+    "qDays": 450,
+    "pricePerDay": "3,59",
+    "paymentSum": 1615.68
+  },
+  {
+    "qDays": 451,
+    "pricePerDay": "3,59",
+    "paymentSum": 1620.51
+  },
+  {
+    "qDays": 452,
+    "pricePerDay": "3,59",
+    "paymentSum": 1624.04
+  },
+  {
+    "qDays": 453,
+    "pricePerDay": "3,59",
+    "paymentSum": 1628.01
+  },
+  {
+    "qDays": 454,
+    "pricePerDay": "3,59",
+    "paymentSum": 1630.54
+  },
+  {
+    "qDays": 455,
+    "pricePerDay": "3,59",
+    "paymentSum": 1633.06
+  },
+  {
+    "qDays": 456,
+    "pricePerDay": "3,59",
+    "paymentSum": 1635.59
+  },
+  {
+    "qDays": 457,
+    "pricePerDay": "3,58",
+    "paymentSum": 1638.1
+  },
+  {
+    "qDays": 458,
+    "pricePerDay": "3,58",
+    "paymentSum": 1640.61
+  },
+  {
+    "qDays": 459,
+    "pricePerDay": "3,58",
+    "paymentSum": 1643.12
+  },
+  {
+    "qDays": 460,
+    "pricePerDay": "3,58",
+    "paymentSum": 1645.62
+  },
+  {
+    "qDays": 461,
+    "pricePerDay": "3,58",
+    "paymentSum": 1648.12
+  },
+  {
+    "qDays": 462,
+    "pricePerDay": "3,57",
+    "paymentSum": 1650.62
+  },
+  {
+    "qDays": 463,
+    "pricePerDay": "3,57",
+    "paymentSum": 1653.1
+  },
+  {
+    "qDays": 464,
+    "pricePerDay": "3,57",
+    "paymentSum": 1655.59
+  },
+  {
+    "qDays": 465,
+    "pricePerDay": "3,57",
+    "paymentSum": 1658.07
+  },
+  {
+    "qDays": 466,
+    "pricePerDay": "3,56",
+    "paymentSum": 1660.54
+  },
+  {
+    "qDays": 467,
+    "pricePerDay": "3,56",
+    "paymentSum": 1663.01
+  },
+  {
+    "qDays": 468,
+    "pricePerDay": "3,56",
+    "paymentSum": 1665.48
+  },
+  {
+    "qDays": 469,
+    "pricePerDay": "3,56",
+    "paymentSum": 1667.94
+  },
+  {
+    "qDays": 470,
+    "pricePerDay": "3,55",
+    "paymentSum": 1670.39
+  },
+  {
+    "qDays": 471,
+    "pricePerDay": "3,55",
+    "paymentSum": 1672.84
+  },
+  {
+    "qDays": 472,
+    "pricePerDay": "3,55",
+    "paymentSum": 1675.29
+  },
+  {
+    "qDays": 473,
+    "pricePerDay": "3,55",
+    "paymentSum": 1677.73
+  },
+  {
+    "qDays": 474,
+    "pricePerDay": "3,54",
+    "paymentSum": 1680.17
+  },
+  {
+    "qDays": 475,
+    "pricePerDay": "3,54",
+    "paymentSum": 1682.6
+  },
+  {
+    "qDays": 476,
+    "pricePerDay": "3,54",
+    "paymentSum": 1685.03
+  },
+  {
+    "qDays": 477,
+    "pricePerDay": "3,54",
+    "paymentSum": 1687.45
+  },
+  {
+    "qDays": 478,
+    "pricePerDay": "3,54",
+    "paymentSum": 1689.87
+  },
+  {
+    "qDays": 479,
+    "pricePerDay": "3,53",
+    "paymentSum": 1692.29
+  },
+  {
+    "qDays": 480,
+    "pricePerDay": "3,53",
+    "paymentSum": 1694.69
+  },
+  {
+    "qDays": 481,
+    "pricePerDay": "3,53",
+    "paymentSum": 1697.1
+  },
+  {
+    "qDays": 482,
+    "pricePerDay": "3,53",
+    "paymentSum": 1699.5
+  },
+  {
+    "qDays": 483,
+    "pricePerDay": "3,52",
+    "paymentSum": 1701.89
+  },
+  {
+    "qDays": 484,
+    "pricePerDay": "3,52",
+    "paymentSum": 1704.28
+  },
+  {
+    "qDays": 485,
+    "pricePerDay": "3,52",
+    "paymentSum": 1706.67
+  },
+  {
+    "qDays": 486,
+    "pricePerDay": "3,52",
+    "paymentSum": 1709.05
+  },
+  {
+    "qDays": 487,
+    "pricePerDay": "3,51",
+    "paymentSum": 1711.43
+  },
+  {
+    "qDays": 488,
+    "pricePerDay": "3,51",
+    "paymentSum": 1713.8
+  },
+  {
+    "qDays": 489,
+    "pricePerDay": "3,51",
+    "paymentSum": 1716.17
+  },
+  {
+    "qDays": 490,
+    "pricePerDay": "3,51",
+    "paymentSum": 1718.53
+  },
+  {
+    "qDays": 491,
+    "pricePerDay": "3,50",
+    "paymentSum": 1720.88
+  },
+  {
+    "qDays": 492,
+    "pricePerDay": "3,50",
+    "paymentSum": 1723.24
+  },
+  {
+    "qDays": 493,
+    "pricePerDay": "3,50",
+    "paymentSum": 1725.59
+  },
+  {
+    "qDays": 494,
+    "pricePerDay": "3,50",
+    "paymentSum": 1727.93
+  },
+  {
+    "qDays": 495,
+    "pricePerDay": "3,50",
+    "paymentSum": 1730.27
+  },
+  {
+    "qDays": 496,
+    "pricePerDay": "3,49",
+    "paymentSum": 1732.6
+  },
+  {
+    "qDays": 497,
+    "pricePerDay": "3,49",
+    "paymentSum": 1734.93
+  },
+  {
+    "qDays": 498,
+    "pricePerDay": "3,49",
+    "paymentSum": 1737.26
+  },
+  {
+    "qDays": 499,
+    "pricePerDay": "3,49",
+    "paymentSum": 1739.58
+  },
+  {
+    "qDays": 500,
+    "pricePerDay": "3,48",
+    "paymentSum": 1741.89
+  },
+  {
+    "qDays": 501,
+    "pricePerDay": "3,48",
+    "paymentSum": 1744.2
+  },
+  {
+    "qDays": 502,
+    "pricePerDay": "3,48",
+    "paymentSum": 1746.51
+  },
+  {
+    "qDays": 503,
+    "pricePerDay": "3,48",
+    "paymentSum": 1748.81
+  },
+  {
+    "qDays": 504,
+    "pricePerDay": "3,47",
+    "paymentSum": 1751.11
+  },
+  {
+    "qDays": 505,
+    "pricePerDay": "3,47",
+    "paymentSum": 1753.4
+  },
+  {
+    "qDays": 506,
+    "pricePerDay": "3,47",
+    "paymentSum": 1755.69
+  },
+  {
+    "qDays": 507,
+    "pricePerDay": "3,47",
+    "paymentSum": 1757.97
+  },
+  {
+    "qDays": 508,
+    "pricePerDay": "3,47",
+    "paymentSum": 1760.25
+  },
+  {
+    "qDays": 509,
+    "pricePerDay": "3,46",
+    "paymentSum": 1762.52
+  },
+  {
+    "qDays": 510,
+    "pricePerDay": "3,46",
+    "paymentSum": 1764.79
+  },
+  {
+    "qDays": 511,
+    "pricePerDay": "3,46",
+    "paymentSum": 1767.05
+  },
+  {
+    "qDays": 512,
+    "pricePerDay": "3,46",
+    "paymentSum": 1769.31
+  },
+  {
+    "qDays": 513,
+    "pricePerDay": "3,45",
+    "paymentSum": 1771.57
+  },
+  {
+    "qDays": 514,
+    "pricePerDay": "3,45",
+    "paymentSum": 1773.82
+  },
+  {
+    "qDays": 515,
+    "pricePerDay": "3,45",
+    "paymentSum": 1776.06
+  },
+  {
+    "qDays": 516,
+    "pricePerDay": "3,45",
+    "paymentSum": 1778.3
+  },
+  {
+    "qDays": 517,
+    "pricePerDay": "3,44",
+    "paymentSum": 1780.54
+  },
+  {
+    "qDays": 518,
+    "pricePerDay": "3,44",
+    "paymentSum": 1782.77
+  },
+  {
+    "qDays": 519,
+    "pricePerDay": "3,44",
+    "paymentSum": 1784.99
+  },
+  {
+    "qDays": 520,
+    "pricePerDay": "3,44",
+    "paymentSum": 1787.22
+  },
+  {
+    "qDays": 521,
+    "pricePerDay": "3,43",
+    "paymentSum": 1789.43
+  },
+  {
+    "qDays": 522,
+    "pricePerDay": "3,43",
+    "paymentSum": 1791.64
+  },
+  {
+    "qDays": 523,
+    "pricePerDay": "3,43",
+    "paymentSum": 1793.85
+  },
+  {
+    "qDays": 524,
+    "pricePerDay": "3,43",
+    "paymentSum": 1796.06
+  },
+  {
+    "qDays": 525,
+    "pricePerDay": "3,43",
+    "paymentSum": 1798.25
+  },
+  {
+    "qDays": 526,
+    "pricePerDay": "3,42",
+    "paymentSum": 1800.45
+  },
+  {
+    "qDays": 527,
+    "pricePerDay": "3,42",
+    "paymentSum": 1802.64
+  },
+  {
+    "qDays": 528,
+    "pricePerDay": "3,42",
+    "paymentSum": 1804.82
+  },
+  {
+    "qDays": 529,
+    "pricePerDay": "3,42",
+    "paymentSum": 1807
+  },
+  {
+    "qDays": 530,
+    "pricePerDay": "3,41",
+    "paymentSum": 1809.17
+  },
+  {
+    "qDays": 531,
+    "pricePerDay": "3,41",
+    "paymentSum": 1811.35
+  },
+  {
+    "qDays": 532,
+    "pricePerDay": "3,41",
+    "paymentSum": 1813.51
+  },
+  {
+    "qDays": 533,
+    "pricePerDay": "3,41",
+    "paymentSum": 1815.67
+  },
+  {
+    "qDays": 534,
+    "pricePerDay": "3,40",
+    "paymentSum": 1817.83
+  },
+  {
+    "qDays": 535,
+    "pricePerDay": "3,40",
+    "paymentSum": 1819.98
+  },
+  {
+    "qDays": 536,
+    "pricePerDay": "3,40",
+    "paymentSum": 1822.13
+  },
+  {
+    "qDays": 537,
+    "pricePerDay": "3,40",
+    "paymentSum": 1824.27
+  },
+  {
+    "qDays": 538,
+    "pricePerDay": "3,39",
+    "paymentSum": 1826.41
+  },
+  {
+    "qDays": 539,
+    "pricePerDay": "3,39",
+    "paymentSum": 1828.54
+  },
+  {
+    "qDays": 540,
+    "pricePerDay": "3,39",
+    "paymentSum": 1832.27
+  },
+  {
+    "qDays": 541,
+    "pricePerDay": "3,39",
+    "paymentSum": 1835.08
+  },
+  {
+    "qDays": 542,
+    "pricePerDay": "3,39",
+    "paymentSum": 1837.2
+  },
+  {
+    "qDays": 543,
+    "pricePerDay": "3,39",
+    "paymentSum": 1839.32
+  },
+  {
+    "qDays": 544,
+    "pricePerDay": "3,38",
+    "paymentSum": 1841.43
+  },
+  {
+    "qDays": 545,
+    "pricePerDay": "3,38",
+    "paymentSum": 1843.54
+  },
+  {
+    "qDays": 546,
+    "pricePerDay": "3,38",
+    "paymentSum": 1845.64
+  },
+  {
+    "qDays": 547,
+    "pricePerDay": "3,38",
+    "paymentSum": 1847.74
+  },
+  {
+    "qDays": 548,
+    "pricePerDay": "3,38",
+    "paymentSum": 1849.83
+  },
+  {
+    "qDays": 549,
+    "pricePerDay": "3,37",
+    "paymentSum": 1851.92
+  },
+  {
+    "qDays": 550,
+    "pricePerDay": "3,37",
+    "paymentSum": 1855.63
+  },
+  {
+    "qDays": 551,
+    "pricePerDay": "3,37",
+    "paymentSum": 1857.72
+  },
+  {
+    "qDays": 552,
+    "pricePerDay": "3,37",
+    "paymentSum": 1859.79
+  },
+  {
+    "qDays": 553,
+    "pricePerDay": "3,37",
+    "paymentSum": 1861.86
+  },
+  {
+    "qDays": 554,
+    "pricePerDay": "3,36",
+    "paymentSum": 1863.93
+  },
+  {
+    "qDays": 555,
+    "pricePerDay": "3,36",
+    "paymentSum": 1865.99
+  },
+  {
+    "qDays": 556,
+    "pricePerDay": "3,36",
+    "paymentSum": 1868.05
+  },
+  {
+    "qDays": 557,
+    "pricePerDay": "3,36",
+    "paymentSum": 1870.1
+  },
+  {
+    "qDays": 558,
+    "pricePerDay": "3,36",
+    "paymentSum": 1872.15
+  },
+  {
+    "qDays": 559,
+    "pricePerDay": "3,35",
+    "paymentSum": 1874.19
+  },
+  {
+    "qDays": 560,
+    "pricePerDay": "3,35",
+    "paymentSum": 1877.88
+  },
+  {
+    "qDays": 561,
+    "pricePerDay": "3,35",
+    "paymentSum": 1879.91
+  },
+  {
+    "qDays": 562,
+    "pricePerDay": "3,35",
+    "paymentSum": 1881.95
+  },
+  {
+    "qDays": 563,
+    "pricePerDay": "3,35",
+    "paymentSum": 1883.97
+  },
+  {
+    "qDays": 564,
+    "pricePerDay": "3,34",
+    "paymentSum": 1885.99
+  },
+  {
+    "qDays": 565,
+    "pricePerDay": "3,34",
+    "paymentSum": 1888.01
+  },
+  {
+    "qDays": 566,
+    "pricePerDay": "3,34",
+    "paymentSum": 1890.02
+  },
+  {
+    "qDays": 567,
+    "pricePerDay": "3,34",
+    "paymentSum": 1892.03
+  },
+  {
+    "qDays": 568,
+    "pricePerDay": "3,33",
+    "paymentSum": 1894.03
+  },
+  {
+    "qDays": 569,
+    "pricePerDay": "3,33",
+    "paymentSum": 1896.03
+  },
+  {
+    "qDays": 570,
+    "pricePerDay": "3,33",
+    "paymentSum": 1899.69
+  },
+  {
+    "qDays": 571,
+    "pricePerDay": "3,33",
+    "paymentSum": 1901.68
+  },
+  {
+    "qDays": 572,
+    "pricePerDay": "3,33",
+    "paymentSum": 1903.67
+  },
+  {
+    "qDays": 573,
+    "pricePerDay": "3,33",
+    "paymentSum": 1905.65
+  },
+  {
+    "qDays": 574,
+    "pricePerDay": "3,32",
+    "paymentSum": 1907.62
+  },
+  {
+    "qDays": 575,
+    "pricePerDay": "3,32",
+    "paymentSum": 1909.59
+  },
+  {
+    "qDays": 576,
+    "pricePerDay": "3,32",
+    "paymentSum": 1911.56
+  },
+  {
+    "qDays": 577,
+    "pricePerDay": "3,32",
+    "paymentSum": 1913.52
+  },
+  {
+    "qDays": 578,
+    "pricePerDay": "3,31",
+    "paymentSum": 1915.48
+  },
+  {
+    "qDays": 579,
+    "pricePerDay": "3,31",
+    "paymentSum": 1917.43
+  },
+  {
+    "qDays": 580,
+    "pricePerDay": "3,31",
+    "paymentSum": 1921.06
+  },
+  {
+    "qDays": 581,
+    "pricePerDay": "3,31",
+    "paymentSum": 1923.01
+  },
+  {
+    "qDays": 582,
+    "pricePerDay": "3,31",
+    "paymentSum": 1924.95
+  },
+  {
+    "qDays": 583,
+    "pricePerDay": "3,31",
+    "paymentSum": 1926.89
+  },
+  {
+    "qDays": 584,
+    "pricePerDay": "3,30",
+    "paymentSum": 1928.82
+  },
+  {
+    "qDays": 585,
+    "pricePerDay": "3,30",
+    "paymentSum": 1930.74
+  },
+  {
+    "qDays": 586,
+    "pricePerDay": "3,30",
+    "paymentSum": 1932.66
+  },
+  {
+    "qDays": 587,
+    "pricePerDay": "3,30",
+    "paymentSum": 1934.58
+  },
+  {
+    "qDays": 588,
+    "pricePerDay": "3,29",
+    "paymentSum": 1936.49
+  },
+  {
+    "qDays": 589,
+    "pricePerDay": "3,29",
+    "paymentSum": 1938.4
+  },
+  {
+    "qDays": 590,
+    "pricePerDay": "3,29",
+    "paymentSum": 1942
+  },
+  {
+    "qDays": 591,
+    "pricePerDay": "3,29",
+    "paymentSum": 1943.9
+  },
+  {
+    "qDays": 592,
+    "pricePerDay": "3,29",
+    "paymentSum": 1945.8
+  },
+  {
+    "qDays": 593,
+    "pricePerDay": "3,28",
+    "paymentSum": 1947.69
+  },
+  {
+    "qDays": 594,
+    "pricePerDay": "3,28",
+    "paymentSum": 1949.57
+  },
+  {
+    "qDays": 595,
+    "pricePerDay": "3,28",
+    "paymentSum": 1951.45
+  },
+  {
+    "qDays": 596,
+    "pricePerDay": "3,28",
+    "paymentSum": 1953.33
+  },
+  {
+    "qDays": 597,
+    "pricePerDay": "3,28",
+    "paymentSum": 1955.2
+  },
+  {
+    "qDays": 598,
+    "pricePerDay": "3,27",
+    "paymentSum": 1957.07
+  },
+  {
+    "qDays": 599,
+    "pricePerDay": "3,27",
+    "paymentSum": 1958.93
+  },
+  {
+    "qDays": 600,
+    "pricePerDay": "3,27",
+    "paymentSum": 1962.5
+  },
+  {
+    "qDays": 601,
+    "pricePerDay": "3,27",
+    "paymentSum": 1964.36
+  },
+  {
+    "qDays": 602,
+    "pricePerDay": "3,27",
+    "paymentSum": 1966.21
+  },
+  {
+    "qDays": 603,
+    "pricePerDay": "3,26",
+    "paymentSum": 1968.05
+  },
+  {
+    "qDays": 604,
+    "pricePerDay": "3,26",
+    "paymentSum": 1969.89
+  },
+  {
+    "qDays": 605,
+    "pricePerDay": "3,26",
+    "paymentSum": 1971.73
+  },
+  {
+    "qDays": 606,
+    "pricePerDay": "3,26",
+    "paymentSum": 1973.56
+  },
+  {
+    "qDays": 607,
+    "pricePerDay": "3,25",
+    "paymentSum": 1975.38
+  },
+  {
+    "qDays": 608,
+    "pricePerDay": "3,25",
+    "paymentSum": 1977.21
+  },
+  {
+    "qDays": 609,
+    "pricePerDay": "3,25",
+    "paymentSum": 1979.02
+  },
+  {
+    "qDays": 610,
+    "pricePerDay": "3,25",
+    "paymentSum": 1982.56
+  },
+  {
+    "qDays": 611,
+    "pricePerDay": "3,25",
+    "paymentSum": 1984.37
+  },
+  {
+    "qDays": 612,
+    "pricePerDay": "3,25",
+    "paymentSum": 1986.18
+  },
+  {
+    "qDays": 613,
+    "pricePerDay": "3,24",
+    "paymentSum": 1987.98
+  },
+  {
+    "qDays": 614,
+    "pricePerDay": "3,24",
+    "paymentSum": 1989.77
+  },
+  {
+    "qDays": 615,
+    "pricePerDay": "3,24",
+    "paymentSum": 1991.56
+  },
+  {
+    "qDays": 616,
+    "pricePerDay": "3,24",
+    "paymentSum": 1993.35
+  },
+  {
+    "qDays": 617,
+    "pricePerDay": "3,23",
+    "paymentSum": 1995.13
+  },
+  {
+    "qDays": 618,
+    "pricePerDay": "3,23",
+    "paymentSum": 1996.9
+  },
+  {
+    "qDays": 619,
+    "pricePerDay": "3,23",
+    "paymentSum": 1998.67
+  },
+  {
+    "qDays": 620,
+    "pricePerDay": "3,23",
+    "paymentSum": 2002.19
+  },
+  {
+    "qDays": 621,
+    "pricePerDay": "3,23",
+    "paymentSum": 2003.95
+  },
+  {
+    "qDays": 622,
+    "pricePerDay": "3,22",
+    "paymentSum": 2005.71
+  },
+  {
+    "qDays": 623,
+    "pricePerDay": "3,22",
+    "paymentSum": 2007.46
+  },
+  {
+    "qDays": 624,
+    "pricePerDay": "3,22",
+    "paymentSum": 2009.21
+  },
+  {
+    "qDays": 625,
+    "pricePerDay": "3,22",
+    "paymentSum": 2010.96
+  },
+  {
+    "qDays": 626,
+    "pricePerDay": "3,22",
+    "paymentSum": 2012.69
+  },
+  {
+    "qDays": 627,
+    "pricePerDay": "3,21",
+    "paymentSum": 2014.43
+  },
+  {
+    "qDays": 628,
+    "pricePerDay": "3,21",
+    "paymentSum": 2016.16
+  },
+  {
+    "qDays": 629,
+    "pricePerDay": "3,21",
+    "paymentSum": 2017.89
+  },
+  {
+    "qDays": 630,
+    "pricePerDay": "3,21",
+    "paymentSum": 2021.37
+  },
+  {
+    "qDays": 631,
+    "pricePerDay": "3,21",
+    "paymentSum": 2023.99
+  },
+  {
+    "qDays": 632,
+    "pricePerDay": "3,21",
+    "paymentSum": 2025.7
+  },
+  {
+    "qDays": 633,
+    "pricePerDay": "3,20",
+    "paymentSum": 2027.41
+  },
+  {
+    "qDays": 634,
+    "pricePerDay": "3,20",
+    "paymentSum": 2029.11
+  },
+  {
+    "qDays": 635,
+    "pricePerDay": "3,20",
+    "paymentSum": 2030.81
+  },
+  {
+    "qDays": 636,
+    "pricePerDay": "3,20",
+    "paymentSum": 2032.51
+  },
+  {
+    "qDays": 637,
+    "pricePerDay": "3,19",
+    "paymentSum": 2034.2
+  },
+  {
+    "qDays": 638,
+    "pricePerDay": "3,19",
+    "paymentSum": 2035.88
+  },
+  {
+    "qDays": 639,
+    "pricePerDay": "3,19",
+    "paymentSum": 2037.56
+  },
+  {
+    "qDays": 640,
+    "pricePerDay": "3,19",
+    "paymentSum": 2041.02
+  },
+  {
+    "qDays": 641,
+    "pricePerDay": "3,19",
+    "paymentSum": 2042.69
+  },
+  {
+    "qDays": 642,
+    "pricePerDay": "3,18",
+    "paymentSum": 2044.36
+  },
+  {
+    "qDays": 643,
+    "pricePerDay": "3,18",
+    "paymentSum": 2046.02
+  },
+  {
+    "qDays": 644,
+    "pricePerDay": "3,18",
+    "paymentSum": 2047.68
+  },
+  {
+    "qDays": 645,
+    "pricePerDay": "3,18",
+    "paymentSum": 2049.33
+  },
+  {
+    "qDays": 646,
+    "pricePerDay": "3,17",
+    "paymentSum": 2050.98
+  },
+  {
+    "qDays": 647,
+    "pricePerDay": "3,17",
+    "paymentSum": 2052.62
+  },
+  {
+    "qDays": 648,
+    "pricePerDay": "3,17",
+    "paymentSum": 2054.26
+  },
+  {
+    "qDays": 649,
+    "pricePerDay": "3,17",
+    "paymentSum": 2055.9
+  },
+  {
+    "qDays": 650,
+    "pricePerDay": "3,17",
+    "paymentSum": 2059.32
+  },
+  {
+    "qDays": 651,
+    "pricePerDay": "3,17",
+    "paymentSum": 2060.94
+  },
+  {
+    "qDays": 652,
+    "pricePerDay": "3,16",
+    "paymentSum": 2062.57
+  },
+  {
+    "qDays": 653,
+    "pricePerDay": "3,16",
+    "paymentSum": 2064.18
+  },
+  {
+    "qDays": 654,
+    "pricePerDay": "3,16",
+    "paymentSum": 2065.8
+  },
+  {
+    "qDays": 655,
+    "pricePerDay": "3,16",
+    "paymentSum": 2067.4
+  },
+  {
+    "qDays": 656,
+    "pricePerDay": "3,15",
+    "paymentSum": 2069.01
+  },
+  {
+    "qDays": 657,
+    "pricePerDay": "3,15",
+    "paymentSum": 2070.6
+  },
+  {
+    "qDays": 658,
+    "pricePerDay": "3,15",
+    "paymentSum": 2072.2
+  },
+  {
+    "qDays": 659,
+    "pricePerDay": "3,15",
+    "paymentSum": 2073.79
+  },
+  {
+    "qDays": 660,
+    "pricePerDay": "3,15",
+    "paymentSum": 2077.17
+  },
+  {
+    "qDays": 661,
+    "pricePerDay": "3,14",
+    "paymentSum": 2078.76
+  },
+  {
+    "qDays": 662,
+    "pricePerDay": "3,14",
+    "paymentSum": 2080.33
+  },
+  {
+    "qDays": 663,
+    "pricePerDay": "3,14",
+    "paymentSum": 2081.9
+  },
+  {
+    "qDays": 664,
+    "pricePerDay": "3,14",
+    "paymentSum": 2083.47
+  },
+  {
+    "qDays": 665,
+    "pricePerDay": "3,14",
+    "paymentSum": 2085.03
+  },
+  {
+    "qDays": 666,
+    "pricePerDay": "3,13",
+    "paymentSum": 2086.59
+  },
+  {
+    "qDays": 667,
+    "pricePerDay": "3,13",
+    "paymentSum": 2088.14
+  },
+  {
+    "qDays": 668,
+    "pricePerDay": "3,13",
+    "paymentSum": 2089.69
+  },
+  {
+    "qDays": 669,
+    "pricePerDay": "3,13",
+    "paymentSum": 2091.23
+  },
+  {
+    "qDays": 670,
+    "pricePerDay": "3,12",
+    "paymentSum": 2092.77
+  },
+  {
+    "qDays": 671,
+    "pricePerDay": "3,12",
+    "paymentSum": 2096.12
+  },
+  {
+    "qDays": 672,
+    "pricePerDay": "3,12",
+    "paymentSum": 2097.65
+  },
+  {
+    "qDays": 673,
+    "pricePerDay": "3,12",
+    "paymentSum": 2099.17
+  },
+  {
+    "qDays": 674,
+    "pricePerDay": "3,12",
+    "paymentSum": 2100.69
+  },
+  {
+    "qDays": 675,
+    "pricePerDay": "3,11",
+    "paymentSum": 2102.21
+  },
+  {
+    "qDays": 676,
+    "pricePerDay": "3,11",
+    "paymentSum": 2103.72
+  },
+  {
+    "qDays": 677,
+    "pricePerDay": "3,11",
+    "paymentSum": 2105.23
+  },
+  {
+    "qDays": 678,
+    "pricePerDay": "3,11",
+    "paymentSum": 2106.73
+  },
+  {
+    "qDays": 679,
+    "pricePerDay": "3,10",
+    "paymentSum": 2108.22
+  },
+  {
+    "qDays": 680,
+    "pricePerDay": "3,11",
+    "paymentSum": 2111.55
+  },
+  {
+    "qDays": 681,
+    "pricePerDay": "3,10",
+    "paymentSum": 2113.04
+  },
+  {
+    "qDays": 682,
+    "pricePerDay": "3,10",
+    "paymentSum": 2114.52
+  },
+  {
+    "qDays": 683,
+    "pricePerDay": "3,10",
+    "paymentSum": 2116
+  },
+  {
+    "qDays": 684,
+    "pricePerDay": "3,10",
+    "paymentSum": 2117.47
+  },
+  {
+    "qDays": 685,
+    "pricePerDay": "3,09",
+    "paymentSum": 2118.94
+  },
+  {
+    "qDays": 686,
+    "pricePerDay": "3,09",
+    "paymentSum": 2120.41
+  },
+  {
+    "qDays": 687,
+    "pricePerDay": "3,09",
+    "paymentSum": 2121.87
+  },
+  {
+    "qDays": 688,
+    "pricePerDay": "3,09",
+    "paymentSum": 2123.32
+  },
+  {
+    "qDays": 689,
+    "pricePerDay": "3,08",
+    "paymentSum": 2124.77
+  },
+  {
+    "qDays": 690,
+    "pricePerDay": "3,08",
+    "paymentSum": 2128.06
+  },
+  {
+    "qDays": 691,
+    "pricePerDay": "3,08",
+    "paymentSum": 2129.5
+  },
+  {
+    "qDays": 692,
+    "pricePerDay": "3,08",
+    "paymentSum": 2130.94
+  },
+  {
+    "qDays": 693,
+    "pricePerDay": "3,08",
+    "paymentSum": 2132.37
+  },
+  {
+    "qDays": 694,
+    "pricePerDay": "3,07",
+    "paymentSum": 2133.8
+  },
+  {
+    "qDays": 695,
+    "pricePerDay": "3,08",
+    "paymentSum": 2139.99
+  },
+  {
+    "qDays": 696,
+    "pricePerDay": "3,08",
+    "paymentSum": 2143.01
+  },
+  {
+    "qDays": 697,
+    "pricePerDay": "3,08",
+    "paymentSum": 2146.02
+  },
+  {
+    "qDays": 698,
+    "pricePerDay": "3,08",
+    "paymentSum": 2149.02
+  },
+  {
+    "qDays": 699,
+    "pricePerDay": "3,08",
+    "paymentSum": 2152.03
+  },
+  {
+    "qDays": 700,
+    "pricePerDay": "3,08",
+    "paymentSum": 2158.76
+  },
+  {
+    "qDays": 701,
+    "pricePerDay": "3,08",
+    "paymentSum": 2161.77
+  },
+  {
+    "qDays": 702,
+    "pricePerDay": "3,08",
+    "paymentSum": 2164.77
+  },
+  {
+    "qDays": 703,
+    "pricePerDay": "3,08",
+    "paymentSum": 2166.17
+  },
+  {
+    "qDays": 704,
+    "pricePerDay": "3,08",
+    "paymentSum": 2170.76
+  },
+  {
+    "qDays": 705,
+    "pricePerDay": "3,08",
+    "paymentSum": 2173.76
+  },
+  {
+    "qDays": 706,
+    "pricePerDay": "3,08",
+    "paymentSum": 2176.75
+  },
+  {
+    "qDays": 707,
+    "pricePerDay": "3,08",
+    "paymentSum": 2178.13
+  },
+  {
+    "qDays": 708,
+    "pricePerDay": "3,08",
+    "paymentSum": 2179.51
+  },
+  {
+    "qDays": 709,
+    "pricePerDay": "3,08",
+    "paymentSum": 2180.88
+  },
+  {
+    "qDays": 710,
+    "pricePerDay": "3,07",
+    "paymentSum": 2182.25
+  },
+  {
+    "qDays": 711,
+    "pricePerDay": "3,07",
+    "paymentSum": 2185.5
+  },
+  {
+    "qDays": 712,
+    "pricePerDay": "3,07",
+    "paymentSum": 2186.86
+  },
+  {
+    "qDays": 713,
+    "pricePerDay": "3,07",
+    "paymentSum": 2188.22
+  },
+  {
+    "qDays": 714,
+    "pricePerDay": "3,07",
+    "paymentSum": 2189.57
+  },
+  {
+    "qDays": 715,
+    "pricePerDay": "3,06",
+    "paymentSum": 2190.91
+  },
+  {
+    "qDays": 716,
+    "pricePerDay": "3,06",
+    "paymentSum": 2192.25
+  },
+  {
+    "qDays": 717,
+    "pricePerDay": "3,05",
+    "paymentSum": 2193.59
+  },
+  {
+    "qDays": 718,
+    "pricePerDay": "3,05",
+    "paymentSum": 2194.92
+  },
+  {
+    "qDays": 719,
+    "pricePerDay": "3,05",
+    "paymentSum": 2195.83
+  },
+  {
+    "qDays": 720,
+    "pricePerDay": "3,05",
+    "paymentSum": 2199
+  }
+]

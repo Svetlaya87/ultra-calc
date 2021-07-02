@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultra calc</title>
+
+    <link rel="stylesheet" href="./assets/bootstrap-5-css/bootstrap.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+    <script src="./assets/js/code.js"></script>
+</head>
+<body>
+    
+    <div class="container p-5">
+
+        <label for="saldoDenegNachalo">Введите остаток денег</label>
+        <input type="text" 
+            class="form-control" 
+            id="saldoDenegNachalo"
+            oninput="calc()" 
+            min='0'
+            step="0.01"
+            >
+
+        <label for="ostatokDneyNachalo">Введите остаток дней</label>    
+        <input type="text"
+            class="form-control" 
+            id="ostatokDneyNachalo"
+            oninput="calc()" 
+            min='0'
+            
+            step="1">
+
+        <label for="sumPopolneniya">Введите сумму пополнения</label>    
+        <input type="text"
+            class="form-control" 
+            id="sumPopolneniya" 
+            oninput="calc()"
+            min='0'
+            
+            step="1">
+
+        <output id="MaxDayAndSum"> </output>
+        
+        
+        <output id="qDney">После пополнения у Вас осталось   , дней</output>
+        <output id="saldoDenegKonec"> Сдача    , грн </output>
+
+    </div>
+</body>
+</html>
